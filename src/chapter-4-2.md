@@ -16,19 +16,6 @@ Investment Analysis
 
 AI and chatbots can also assist in investment analysis by analyzing large amounts of data and generating insights. For example, AI can analyze historical sales data, demographic trends, and economic indicators to predict future market trends. Chatbots can also provide insights into specific properties by analyzing data such as rental income, expenses, and market value.
 
-Benefits of AI and Chatbots in Real Estate
-------------------------------------------
-
-Some benefits of using AI and chatbots in the real estate industry include:
-
-* Improved Efficiency: AI and chatbots can streamline property search and investment analysis processes, saving time and resources.
-
-* Personalization: AI and chatbots can provide personalized recommendations and insights based on user preferences.
-
-* Data Analysis: AI and chatbots can analyze large amounts of data and generate insights that may not be possible for humans to identify.
-
-* 24/7 Availability: Chatbots can provide assistance and answer questions at any time, improving customer service.
-
 Challenges and Considerations
 -----------------------------
 
