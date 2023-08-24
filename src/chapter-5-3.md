@@ -1,8 +1,3 @@
-How ChatGPT can be used for Revolutionizing Property Search and Investment Analysis
-=====================================================================================================================
-
-Introduction
-------------
 
 In recent years, Artificial Intelligence (AI) has emerged as a game-changer in the real estate industry, particularly in property search and investment analysis. One of the most powerful AI tools in the industry is ChatGPT (Generative Pre-trained Transformer 3), which uses natural language processing to understand and respond to user queries. In this chapter, we will explore how ChatGPT can be used to revolutionize property search and investment analysis.
 

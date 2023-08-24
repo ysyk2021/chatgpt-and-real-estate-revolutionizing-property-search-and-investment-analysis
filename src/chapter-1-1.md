@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 The real estate industry is constantly evolving, and advancements in technology have played a significant role in shaping the industry. In recent years, Artificial Intelligence (AI) has emerged as a game-changer in the industry, particularly in property search and investment analysis.
 

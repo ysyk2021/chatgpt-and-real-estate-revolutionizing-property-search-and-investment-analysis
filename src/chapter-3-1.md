@@ -1,8 +1,3 @@
-Factors Affecting Real Estate Industry
-=====================================================================================
-
-Introduction
-------------
 
 The real estate industry faces several challenges that impact property search and investment analysis. In this chapter, we will discuss some of the factors that affect the real estate industry.
 

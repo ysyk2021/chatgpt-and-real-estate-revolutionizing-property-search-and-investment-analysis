@@ -1,8 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
-
-Introduction
-------------
 
 ChatGPT (Generative Pre-trained Transformer 3) is an AI language model that has emerged as a powerful tool in the real estate industry, particularly in providing personalized property recommendations and investment analysis. In this chapter, we will discuss the features and capabilities of ChatGPT.
 

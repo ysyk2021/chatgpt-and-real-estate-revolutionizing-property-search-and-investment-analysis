@@ -1,8 +1,3 @@
-Chapter 6: Future of Real Estate Industry with ChatGPT
-======================================================
-
-Introduction
-------------
 
 ChatGPT (Generative Pre-trained Transformer 3) has emerged as a powerful tool in the real estate industry, particularly in providing personalized property recommendations and investment analysis. In this chapter, we will discuss the potential advancements, emerging trends, and challenges in the real estate industry with ChatGPT.
 

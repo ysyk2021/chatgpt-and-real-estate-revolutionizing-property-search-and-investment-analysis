@@ -1,8 +1,3 @@
-Chapter 1: Basics of Real Estate Industry
-=========================================
-
-Introduction
-------------
 
 The real estate industry is a complex and dynamic industry that involves the buying, selling, and renting of properties. In this chapter, we will define the real estate industry, discuss the different types of real estate properties, and highlight the importance of providing personalized property recommendations and investment analysis.
 

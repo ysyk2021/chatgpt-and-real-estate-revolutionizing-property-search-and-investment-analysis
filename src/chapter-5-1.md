@@ -1,8 +1,3 @@
-What is ChatGPT?
-==================================================
-
-Introduction
-------------
 
 ChatGPT (Generative Pre-trained Transformer 3) is an AI language model that has revolutionized the way organizations interact with clients in the real estate industry. In this chapter, we will discuss what ChatGPT is and how it works.
 

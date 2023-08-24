@@ -1,8 +1,3 @@
-Different Types of Real Estate Properties
-====================================================================================
-
-Introduction
-------------
 
 The real estate industry is a diverse and complex industry that deals with various types of properties. In this chapter, we will discuss the different types of real estate properties and their characteristics.
 

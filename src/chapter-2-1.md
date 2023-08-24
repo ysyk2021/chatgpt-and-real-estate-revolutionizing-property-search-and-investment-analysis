@@ -1,8 +1,3 @@
-Definition of Real Estate Industry
-=============================================================================
-
-Introduction
-------------
 
 The real estate industry is a complex and dynamic industry that involves the buying, selling, and renting of properties. In this chapter, we will define the real estate industry and its various components.
 

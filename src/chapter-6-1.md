@@ -1,8 +1,3 @@
-Steps to Implement ChatGPT in Real Estate Industry
-===========================================================================================================
-
-Introduction
-------------
 
 ChatGPT (Generative Pre-trained Transformer 3) is a powerful tool that can revolutionize property search and investment analysis in the real estate industry. In this chapter, we will discuss the steps to implement ChatGPT in the real estate industry.
 

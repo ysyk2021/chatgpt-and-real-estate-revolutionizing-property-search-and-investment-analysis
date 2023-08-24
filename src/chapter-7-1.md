@@ -1,8 +1,3 @@
-Potential Advancements in Real Estate Industry with ChatGPT
-===================================================================================================================
-
-Introduction
-------------
 
 ChatGPT (Generative Pre-trained Transformer 3) has the potential to revolutionize the real estate industry. In this chapter, we will discuss the potential advancements in the real estate industry with ChatGPT.
 
