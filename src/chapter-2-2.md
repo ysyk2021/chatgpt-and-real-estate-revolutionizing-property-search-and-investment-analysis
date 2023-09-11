@@ -1,5 +1,4 @@
-Chapter 2: Different Types of Real Estate Properties
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of real estate properties found within the industry. Understanding these different property types is essential for individuals and investors to navigate the real estate market effectively.
 

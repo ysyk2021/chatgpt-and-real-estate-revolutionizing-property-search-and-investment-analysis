@@ -1,5 +1,4 @@
-Chapter 9: Case Studies of Real Estate Businesses that Have Successfully Implemented ChatGPT in Their Services
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of real estate businesses that have effectively implemented ChatGPT in their services. These examples demonstrate how ChatGPT has been utilized to revolutionize property search and enhance investment analysis, providing valuable insights into the benefits and outcomes of its implementation.
 

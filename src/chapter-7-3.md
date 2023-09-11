@@ -1,5 +1,4 @@
-Chapter 8: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will summarize the key takeaways from the book "ChatGPT and Real Estate: Revolutionizing Property Search and Investment Analysis" and discuss the future outlook for AI chatbot technology in the real estate industry.
 

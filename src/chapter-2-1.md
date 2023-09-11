@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Real Estate Industry
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the real estate industry, encompassing its scope, participants, and key activities. Understanding the essence of the real estate industry is essential to appreciate the transformative potential of AI and chatbots within this domain.
 

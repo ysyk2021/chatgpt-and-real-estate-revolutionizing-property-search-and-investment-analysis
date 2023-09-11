@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by Real Estate Agents and Investors
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common challenges faced by real estate agents and investors in the context of property search and investment analysis. Understanding these challenges is crucial for industry professionals to effectively leverage AI chatbots such as ChatGPT and navigate the evolving real estate landscape.
 

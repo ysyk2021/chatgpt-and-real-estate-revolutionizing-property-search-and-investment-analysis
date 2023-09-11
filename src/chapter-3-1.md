@@ -1,5 +1,4 @@
-Chapter 2: Factors Affecting the Real Estate Industry
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the various factors that have a significant impact on the real estate industry. Understanding these factors is crucial for real estate professionals and investors to navigate the market effectively and leverage AI chatbots like ChatGPT to revolutionize property search and investment analysis.
 

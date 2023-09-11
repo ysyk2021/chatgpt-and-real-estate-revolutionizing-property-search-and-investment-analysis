@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Using ChatGPT in Providing Personalized Property Recommendations and Investment Analysis
-======================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the best practices for utilizing ChatGPT in providing personalized property recommendations and investment analysis. These practices will help real estate professionals harness the power of ChatGPT to revolutionize property search and enhance investment decision-making processes.
 

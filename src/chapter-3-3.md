@@ -1,5 +1,4 @@
-Chapter 6: Impact of These Challenges on Property Search and Investment Analysis
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the impact that the challenges associated with AI chatbot technology have on property search and investment analysis in the real estate industry. Understanding these impacts is crucial for stakeholders to navigate the challenges effectively and leverage the full potential of AI chatbots like ChatGPT.
 

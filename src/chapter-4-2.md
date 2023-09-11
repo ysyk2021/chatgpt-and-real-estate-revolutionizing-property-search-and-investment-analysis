@@ -1,5 +1,4 @@
-Chapter 5: How AI and Chatbots Can Improve Property Search and Investment Analysis in the Real Estate Industry
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how AI (Artificial Intelligence) and chatbots can significantly improve property search and investment analysis processes in the real estate industry. These technologies offer advanced capabilities that enhance efficiency, accuracy, personalization, and decision-making for both buyers and investors.
 

@@ -1,5 +1,4 @@
-Chapter 7: Emerging Trends and Challenges in Real Estate and ChatGPT
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and challenges that arise with the convergence of real estate and ChatGPT technology. Understanding these trends and addressing the associated challenges is crucial for maximizing the potential impact of AI chatbots in the real estate industry.
 

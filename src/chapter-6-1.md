@@ -1,5 +1,4 @@
-Chapter 8: Steps to Implement ChatGPT in the Real Estate Industry
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps to successfully implement ChatGPT in the real estate industry. These steps will guide real estate professionals in leveraging ChatGPT's capabilities to revolutionize property search and enhance investment analysis.
 

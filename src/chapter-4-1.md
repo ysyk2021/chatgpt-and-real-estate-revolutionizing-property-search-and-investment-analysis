@@ -1,5 +1,4 @@
-Chapter 2: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to AI (Artificial Intelligence) and chatbots in the context of real estate. Understanding the fundamentals of AI and chatbot technology is essential for leveraging the power of ChatGPT in revolutionizing property search and investment analysis.
 

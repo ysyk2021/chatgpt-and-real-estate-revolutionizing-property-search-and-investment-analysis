@@ -1,5 +1,4 @@
-Chapter 5: Revolutionizing Property Search and Investment Analysis with ChatGPT
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT can be utilized to revolutionize property search and investment analysis within the real estate industry. The integration of AI chatbot technology offers numerous benefits, empowering users with personalized recommendations, data-driven insights, and enhanced decision-making capabilities.
 

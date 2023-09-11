@@ -1,5 +1,4 @@
-Chapter 4: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, the AI chatbot technology revolutionizing property search and investment analysis in the real estate industry. Understanding these features will provide insights into how ChatGPT can assist users in their real estate endeavors.
 

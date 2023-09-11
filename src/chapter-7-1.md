@@ -1,5 +1,4 @@
-Chapter 6: Potential Advancements in the Real Estate Industry with ChatGPT
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that AI chatbot technology, specifically ChatGPT, can bring to the real estate industry. These advancements have the potential to transform various aspects of the industry, improving customer experiences, streamlining processes, and driving innovation.
 

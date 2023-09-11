@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will introduce ChatGPT, the AI technology revolutionizing property search and investment analysis in the real estate industry. We will explore what ChatGPT is, how it works, and its significance in transforming the way we interact with AI chatbots.
 

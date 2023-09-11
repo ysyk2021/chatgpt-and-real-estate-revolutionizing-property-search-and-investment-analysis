@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for the Real Estate Industry
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that AI (Artificial Intelligence) and chatbots bring to the real estate industry. These technologies have the potential to revolutionize property search and investment analysis, improving efficiency, personalization, and customer experiences.
 

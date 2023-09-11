@@ -1,5 +1,4 @@
-Chapter 4: Importance of Providing Personalized Property Recommendations and Investment Analysis
-================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of offering personalized property recommendations and investment analysis in the real estate industry. The ability to tailor these services to individual needs and preferences enhances customer satisfaction, improves decision-making, and drives better outcomes for both buyers and investors.
 
